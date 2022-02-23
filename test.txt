@@ -6,3 +6,7 @@ google.com
 git revert
 
 git reset
+
+git log
+
+git log --oneline
