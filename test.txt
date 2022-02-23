@@ -3,4 +3,6 @@ how r u
 
 google.com
 
-git reverse
+git revert
+
+git reset
